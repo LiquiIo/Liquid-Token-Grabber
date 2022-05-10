@@ -4,6 +4,7 @@ if os.name != "nt":
 from re import findall
 from json import loads, dumps
 from base64 import b64decode
+import requests
 from subprocess import Popen, PIPE
 from urllib.request import Request, urlopen
 from datetime import datetime
