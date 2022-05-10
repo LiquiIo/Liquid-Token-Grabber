@@ -1,6 +1,6 @@
 <h1 align="center"> 🥸 Liquid Token Grabber 🥸 </h1>
 
-# Features
+#  😖 Features
 
 ---
 
@@ -12,7 +12,7 @@
 > 
 > Grab account information
 
-# How to use
+#  🤔 How to use
 
 ---
 
