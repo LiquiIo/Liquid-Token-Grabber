@@ -1,4 +1,4 @@
-<h1 align="center">Liquid Token Grabber</h1>
+<h1 align="center"> 🥸 Liquid Token Grabber 🥸 </h1>
 
 # Features
 
